@@ -1,2 +1,2 @@
-# Hacking via Direct Memory Allocation
+# Malware via Direct Memory Allocation
 A research project exploring the usage of DMA FPGA cards for Malware. Presented at the SHSU Undergraduate Research Symposium 2026.
